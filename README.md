@@ -1,4 +1,7 @@
 # Odersky-Scala
-Assignments for Odersky's Scala course
+Assignments for Odersky's Scala course.
 
-The text here is an attempt to play with "commit".
+0. example
+1. recfun
+2. funsets
+3. objsets
