@@ -5,3 +5,4 @@ Assignments for Odersky's Scala course.
 1.recfun
 2.funsets
 3.objsets
+4.patmat
