@@ -6,3 +6,5 @@ Assignments for Odersky's Scala course.
 2.funsets
 3.objsets
 4.patmat
+6.forcomp
+7.streams
